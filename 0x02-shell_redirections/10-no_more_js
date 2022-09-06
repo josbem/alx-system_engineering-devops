@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/bashv     
 find . -name "*js" -delete
